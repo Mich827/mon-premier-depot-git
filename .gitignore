@@ -1,1 +1,9 @@
-password.md
+#ignore tous les fichiers .txt
+*.txt
+*.docx
+*.pdf
+upload/
+vendors/
+
+!upload/readme.md
+
